@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.PoductAPI\\ShirtShooping.PoductAPI.csproj": {}
+    "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.PoductAPI\\ShirtShooping.PoductAPI.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.PoductAPI\\ShirtShooping.PoductAPI.csproj": {
+    "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.PoductAPI\\ShirtShooping.PoductAPI.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.PoductAPI\\ShirtShooping.PoductAPI.csproj",
+        "projectUniqueName": "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.PoductAPI\\ShirtShooping.PoductAPI.csproj",
         "projectName": "ShirtShooping.PoductAPI",
-        "projectPath": "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.PoductAPI\\ShirtShooping.PoductAPI.csproj",
+        "projectPath": "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.PoductAPI\\ShirtShooping.PoductAPI.csproj",
         "packagesPath": "C:\\Users\\e.erick.nascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.PoductAPI\\obj\\",
+        "outputPath": "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.PoductAPI\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\e.erick.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",

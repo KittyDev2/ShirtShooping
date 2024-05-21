@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.Web\\ShirtShooping.Web.csproj": {}
+    "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.Web\\ShirtShooping.Web.csproj": {}
   },
   "projects": {
-    "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.Web\\ShirtShooping.Web.csproj": {
+    "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.Web\\ShirtShooping.Web.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.Web\\ShirtShooping.Web.csproj",
+        "projectUniqueName": "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.Web\\ShirtShooping.Web.csproj",
         "projectName": "ShirtShooping.Web",
-        "projectPath": "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.Web\\ShirtShooping.Web.csproj",
+        "projectPath": "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.Web\\ShirtShooping.Web.csproj",
         "packagesPath": "C:\\Users\\e.erick.nascimento\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.Web\\obj\\",
+        "outputPath": "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.Web\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\e.erick.nascimento\\AppData\\Roaming\\NuGet\\NuGet.Config",

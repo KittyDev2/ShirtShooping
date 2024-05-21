@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "BmNCuz0T4XW6+scDBicuiiC6LnWVvyj+xSIjCmWWr3fOnLh6jwWNu/8+egERxSuZP+CgeWcgPJooFxLRue3aZQ==",
+  "dgSpecHash": "A0rHaSnBBU9PjeefZip1w7o6WDbATOdDzFOX88VAQWMG/Qem2C+E095gJnr4+aW5MNWTyMSifxwHiXNbp/PcXw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.Web\\ShirtShooping.Web.csproj",
+  "projectFilePath": "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.Web\\ShirtShooping.Web.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

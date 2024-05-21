@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "/0pGUTw8UaEQOW4MY0TSVaRxhSfrNBAaG/TR7Lsq26m7/lD6qEMnisTAElQdjctzGTxVvqswM05l7MxL/6xiBQ==",
+  "dgSpecHash": "9w2wMoGzb6w9dxMdJoGEUKmHOilRBK1A+nCtJHVAUrsS4qAk3yRWiB0QNbmNGEEHEnn9Hq0t7AdwsogHJMwoug==",
   "success": true,
-  "projectFilePath": "C:\\Users\\e.erick.nascimento\\Code\\FirstMicrosservices\\ShirtShooping\\ShirtShooping.PoductAPI\\ShirtShooping.PoductAPI.csproj",
+  "projectFilePath": "C:\\Users\\e.erick.nascimento\\Code\\ShirtShooping\\ShirtShooping.PoductAPI\\ShirtShooping.PoductAPI.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\e.erick.nascimento\\.nuget\\packages\\automapper\\10.1.1\\automapper.10.1.1.nupkg.sha512",
     "C:\\Users\\e.erick.nascimento\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\6.0.0\\automapper.extensions.microsoft.dependencyinjection.6.0.0.nupkg.sha512",
